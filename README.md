@@ -1,9 +1,10 @@
-# Recipes about Stroopwafels
+# Recipes about Risotto
 
-A few recipes for Stroopwafels
+A few delicious versions of Risotto
 
-- Chocolate Stroopwafels
-- Vegan Stroopwafels
+- Risotto alla Milanese
+- Lemon Risotto
+- Pumpkin Risotto
 
 1. Create de html page
 2. Write some code
