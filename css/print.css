@@ -25,6 +25,23 @@ h2 {
   color: black;
 }
 
+/* Section Styles */
+
+h3 {
+  font-size: 18px;
+  font-family: Helvetica ;
+}
+
+h4 {
+  font-size: 16px;
+  font-family: Helvetica;
+}
+
+p {
+  font-size: 14px;
+  font-family: Helvetica;
+}
+
 /* List Styles */
 ul {
   font-family: Helvetica;
@@ -55,3 +72,4 @@ a {
   margin-left: -245px;
   margin-top: -160px;   
 }
+
